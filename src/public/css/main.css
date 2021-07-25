@@ -37,3 +37,8 @@ footer {
   height: 40px;
 }
 
+h3 img{
+  height: 250px;
+  width: 250px;
+  object-fit: cover;
+}
