@@ -19,6 +19,11 @@ body {
   margin-bottom: 40px;
 }
 
+.navbar-brand {
+  
+  font-family: 'Libre Baskerville', serif;
+}
+
 
 
 .about-section {
@@ -40,6 +45,12 @@ footer {
 h3 img{
   height: 250px;
   width: 250px;
+  object-fit: cover;
+}
+
+.rounded-circle {
+  height: 150px;
+  width: 150px;
   object-fit: cover;
 }
 
