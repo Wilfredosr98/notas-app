@@ -54,6 +54,12 @@ h3 img {
   object-fit: cover;
 }
 
+h5 img {
+  height: 250px;
+  width: 350px;
+  object-fit: cover;
+}
+
 .rounded-circle {
   height: 150px;
   width: 150px;
@@ -233,3 +239,11 @@ form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
 }
 
+
+
+.header-container {
+    background-size: 100% 100%;
+    background: url(https://www.faztweb.com/images/city.svg),#041a75;
+    height: 300px;
+    background-size: cover;
+}
