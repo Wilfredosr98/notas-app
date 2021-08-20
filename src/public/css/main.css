@@ -19,8 +19,7 @@ body {
   margin-bottom: 40px;
 }
 
-.navbar-brand {
-  
+.navbar-brand {  
   font-family: 'Libre Baskerville', serif;
 }
 
@@ -238,7 +237,6 @@ h5 img {
 form .row:first-child .floating-label-form-group {
   border-top: 1px solid #e9ecef;
 }
-
 
 
 .header-container {

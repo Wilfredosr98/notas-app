@@ -7,7 +7,7 @@ router.get('/', (req, res) => {
 	res.render('index');
 });
 
-router.get('/about', (req, res) => {
+router.get('/quiensoy', (req, res) => {
 	res.render('about');
 });
 
