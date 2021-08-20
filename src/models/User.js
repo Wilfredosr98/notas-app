@@ -36,3 +36,5 @@ UserSchema.methods.matchPassword = async function (password){
 }
 
 module.exports=  model("User", UserSchema);
+
+
